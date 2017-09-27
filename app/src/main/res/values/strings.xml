@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNameCard</string>
+    <string name="情報工学科２年" />
+    <string name="hello">情報工学科２年</string>
+    <string name="int">1601013</string>
+    <string name="string">ニックネーム</string>
+    <string name="name">中村真秀子</string>
+    <string name="call">09029640243</string>
+</resources>
